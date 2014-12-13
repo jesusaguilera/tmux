@@ -2,6 +2,7 @@
 
 ### What is Tmux?
 tmux is a terminal multiplexer
+
 ![ScreenShot](http://images6.fanpop.com/image/photos/37300000/jake-side-by-side-adventure-time-with-finn-and-jake-37359720-500-429.png)
 
 ### What is a terminal multiplexer?
