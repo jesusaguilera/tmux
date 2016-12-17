@@ -12,4 +12,4 @@ It lets you switch easily between several programs in one terminal, detach them 
 ![ScreenShot](http://i62.tinypic.com/2affs6q.png)
 
 ### Resources
-[Install and configure tmux on Mac OS X Raw](https://gist.github.com/simme/129770://gist.github.com/simme/1297707 "Title").
+[Install and configure tmux on Mac OS X Raw](https://gist.github.com/simme/1297707 "Title").
