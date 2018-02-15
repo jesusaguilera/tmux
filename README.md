@@ -11,7 +11,7 @@ It lets you switch easily between several programs in one terminal, detach them 
 [Install and configure tmux on Mac OS X Raw](https://gist.github.com/simme/1297707 "Title").
 
 ### Install Tmux-poweline
-Just download the tmux-poweline folder in ~/ directory
+[Tmux-poweline](https://github.com/erikw/tmux-powerline)
 
 
 ### ScreenShots
