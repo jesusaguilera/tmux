@@ -15,8 +15,3 @@ It lets you switch easily between several programs in one terminal, detach them 
 
 ### Install Tmux-plugins
 [Tmux-plugins](https://github.com/tmux-plugins/tpm)
-
-
-### ScreenShots
-![ScreenShot](http://i62.tinypic.com/2affs6q.png)
-
